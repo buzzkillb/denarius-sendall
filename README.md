@@ -4,4 +4,10 @@
 Create wallet with some funds  
 Add your denariusd address you want to send to  
 To run, replace 0 with number of seconds.  
-```watch -n0 ./send.sh```
+```
+watch -n0 ./send.sh
+```
+Or to burn
+```
+watch -n0 ./sendburn.sh
+```
